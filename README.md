@@ -1,0 +1,2 @@
+# pekoma
+Obsidian for beginners
